@@ -1,0 +1,50 @@
+=== Leyendo CIFAR-10 ===
+Cargado: data_batch_1.bin (10000 imagenes)
+Cargado: data_batch_2.bin (10000 imagenes)
+Cargado: data_batch_3.bin (10000 imagenes)
+Cargado: data_batch_4.bin (10000 imagenes)
+Cargado: data_batch_5.bin (10000 imagenes)
+
+Total im├ígenes de entrenamiento: 50000
+Total im├ígenes de prueba: 10000
+
+=== ENTRENAMIENTO ===
+Epoch 1/35 | Loss: 2.1517 | Accuracy: 17.0520%
+Epoch 2/35 | Loss: 1.8899 | Accuracy: 30.4820%
+Epoch 3/35 | Loss: 1.7473 | Accuracy: 36.9300%
+Epoch 4/35 | Loss: 1.6603 | Accuracy: 40.2860%
+Epoch 5/35 | Loss: 1.5906 | Accuracy: 42.9000%
+Epoch 6/35 | Loss: 1.5394 | Accuracy: 44.7980%
+Epoch 7/35 | Loss: 1.4987 | Accuracy: 46.2160%
+Epoch 8/35 | Loss: 1.4631 | Accuracy: 47.7420%
+Epoch 9/35 | Loss: 1.4323 | Accuracy: 48.7860%
+Epoch 10/35 | Loss: 1.4040 | Accuracy: 49.8360%
+Epoch 11/35 | Loss: 1.3776 | Accuracy: 50.8840%
+Epoch 12/35 | Loss: 1.3534 | Accuracy: 51.6200%
+Epoch 13/35 | Loss: 1.3317 | Accuracy: 52.4840%
+Epoch 14/35 | Loss: 1.3113 | Accuracy: 53.1420%
+Epoch 15/35 | Loss: 1.2919 | Accuracy: 53.6980%
+Epoch 16/35 | Loss: 1.2734 | Accuracy: 54.4680%
+Epoch 17/35 | Loss: 1.2559 | Accuracy: 55.1620%
+Epoch 18/35 | Loss: 1.2396 | Accuracy: 55.6540%
+Epoch 19/35 | Loss: 1.2253 | Accuracy: 56.1440%
+Epoch 20/35 | Loss: 1.2102 | Accuracy: 56.6140%
+Epoch 21/35 | Loss: 1.1965 | Accuracy: 57.2420%
+Epoch 22/35 | Loss: 1.1835 | Accuracy: 57.7360%
+Epoch 23/35 | Loss: 1.1701 | Accuracy: 58.1820%
+Epoch 24/35 | Loss: 1.1593 | Accuracy: 58.5420%
+Epoch 25/35 | Loss: 1.1458 | Accuracy: 58.9500%
+Epoch 26/35 | Loss: 1.1328 | Accuracy: 59.3460%
+Epoch 27/35 | Loss: 1.1211 | Accuracy: 60.0180%
+Epoch 28/35 | Loss: 1.1102 | Accuracy: 60.4000%
+Epoch 29/35 | Loss: 1.1002 | Accuracy: 60.7900%
+Epoch 30/35 | Loss: 1.0897 | Accuracy: 61.1980%
+Epoch 31/35 | Loss: 1.0797 | Accuracy: 61.6300%
+Epoch 32/35 | Loss: 1.0687 | Accuracy: 61.9940%
+Epoch 33/35 | Loss: 1.0593 | Accuracy: 62.3120%
+Epoch 34/35 | Loss: 1.0505 | Accuracy: 62.5520%
+Epoch 35/35 | Loss: 1.0433 | Accuracy: 62.7320%
+
+=== VALIDACION (Test Set) ===
+Test Loss: 1.5216
+Test Accuracy: 49.7600% (4976/10000)	
