@@ -5,8 +5,8 @@ Cargado: data_batch_3.bin (10000 imagenes)
 Cargado: data_batch_4.bin (10000 imagenes)
 Cargado: data_batch_5.bin (10000 imagenes)
 
-Total im├ígenes de entrenamiento: 50000
-Total im├ígenes de prueba: 10000
+Total imagenes de entrenamiento: 50000
+Total imagenes de prueba: 10000
 
 === ENTRENAMIENTO ===
 Epoch 1/35 | Loss: 2.1517 | Accuracy: 17.0520%
@@ -47,4 +47,5 @@ Epoch 35/35 | Loss: 1.0433 | Accuracy: 62.7320%
 
 === VALIDACION (Test Set) ===
 Test Loss: 1.5216
+
 Test Accuracy: 49.7600% (4976/10000)	
