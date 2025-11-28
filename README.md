@@ -86,13 +86,4 @@ Incluye precisión, errores y otros datos importantes del entrenamiento.
 
 ---
 
-## Características del MLP
-
-* Implementación totalmente manual en C++
-* Forward y backward propagation
-* Funciones de activación (ReLU / Sigmoid dependiendo de la configuración)
-* Entrenamiento mediante descenso de gradiente
-* Clasificación final en 10 categorías
-
----
 
